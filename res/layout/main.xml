@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+    <RelativeLayout android:id="@+id/bottomButtonLayout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true">
+
+    </RelativeLayout>
+    <Button android:text="@string/beginHunt"
+            android:id="@+id/beginHunt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="beginHunt"
+            android:background="@android:color/darker_gray"
+            android:layout_toRightOf="@+id/bottomButtonLayout" android:layout_alignParentTop="true"
+            android:layout_marginTop="7dp"/>
+
+</RelativeLayout>
+
+
+
+
