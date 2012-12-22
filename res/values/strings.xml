@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HuntTrack_ALPHA</string>
+    <string name="start_tracking_button">Start Tracking</string>
+    <string name="notifyParty">Notify Party</string>
+    <string name="findParty">Find Party</string>
+    <string name="beginHunt">Begin Hunt</string>
+    <string name="endHunt">END HUNT</string>
+</resources>
